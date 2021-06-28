@@ -1,5 +1,5 @@
 {
-    "name": "appwilio/russianpost-sdk",
+    "name": "antistressstore/russianpost-sdk",
     "keywords": ["Russian Post", "pochta", "Почта России", "delivery", "служба доставки"],
     "homepage": "https://github.com/appwilio/russianpost-sdk",
     "description": "Russian Post (pochta.ru) SDK",
